@@ -28,7 +28,9 @@ Inequality Operator (!=): Returns true if the operands are not equal, otherwise 
     cout<<"a&&b: "<<(a&&b)<<endl;
     return 0;
 }
-
+```
+2.
+```
 //Equality Operator
 #include<iostream>
 using namespace std;
@@ -42,7 +44,7 @@ int main(){
     return 0;
 }
 ```
-2.
+3.
 ``` 
 //Inequality Operator
 #include<iostream>
@@ -58,7 +60,7 @@ int main(){
     return 0;
 }
 ```
-3.
+4.
 ```
  #include<iostream>
  using namespace std;
@@ -78,10 +80,14 @@ int main(){
 }
 ```
 # Output:
-1. ![Screenshot 2024-08-16 003434](https://github.com/user-attachments/assets/d9416b23-4de2-4336-b134-9d22a4c35e7f)
-2. ![Screenshot 2024-08-16 003506](https://github.com/user-attachments/assets/dd6ad46e-98de-41c8-a632-9288bed6a667)
-3. ![Screenshot 2024-08-16 003552](https://github.com/user-attachments/assets/095303bc-8e64-4905-a783-5c982943a639)
-4. ![Screenshot 2024-08-16 003617](https://github.com/user-attachments/assets/09a498eb-44ef-4e77-b279-456bf46e6c61)
+1.
+ ![Screenshot 2024-08-16 003434](https://github.com/user-attachments/assets/d9416b23-4de2-4336-b134-9d22a4c35e7f)
+2.
+ ![Screenshot 2024-08-16 003506](https://github.com/user-attachments/assets/dd6ad46e-98de-41c8-a632-9288bed6a667)
+ 3.
+ ![Screenshot 2024-08-16 003552](https://github.com/user-attachments/assets/095303bc-8e64-4905-a783-5c982943a639)
+4.
+ ![Screenshot 2024-08-16 003617](https://github.com/user-attachments/assets/09a498eb-44ef-4e77-b279-456bf46e6c61)
 
 # Conclusion
 This repository provides a practical understanding of different operators in C++. By experimenting with these examples, users can gain insight into how each operator functions in C++ programming.
