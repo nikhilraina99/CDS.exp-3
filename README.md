@@ -17,7 +17,7 @@ Inequality Operator (!=): Returns true if the operands are not equal, otherwise 
 # Program codes
 1.
 ```javascript
-//Bool
+// Bool
 #include<iostream>
 using namespace std;
 int main(){
@@ -29,8 +29,8 @@ int main(){
 }
 ```
 2.
-```
-//Equality Operator
+```javascript
+// Equality Operator
 #include<iostream>
 using namespace std;
 int main(){
@@ -44,8 +44,8 @@ int main(){
 }
 ```
 3.
-``` 
-//Inequality Operator
+```javascript
+// Inequality Operator
 #include<iostream>
  using namespace std;
  int main()
@@ -60,7 +60,7 @@ int main(){
 }
 ```
 4.
-```
+```javascript
  #include<iostream>
  using namespace std;
  int main()
@@ -79,13 +79,21 @@ int main(){
 }
 ```
 # Output:
-1.![Screenshot 2024-08-16 003434](https://github.com/user-attachments/assets/d9416b23-4de2-4336-b134-9d22a4c35e7f)
+1.
+
+![Screenshot 2024-08-16 003434](https://github.com/user-attachments/assets/d9416b23-4de2-4336-b134-9d22a4c35e7f)
 
 2.
 
-3.![Screenshot 2024-08-16 003552](https://github.com/user-attachments/assets/095303bc-8e64-4905-a783-5c982943a639)
+![Screenshot 2024-08-23 005235](https://github.com/user-attachments/assets/a0697830-c2a2-46a5-b044-a8db35def98e)
 
-4.![Screenshot 2024-08-16 003617](https://github.com/user-attachments/assets/09a498eb-44ef-4e77-b279-456bf46e6c61)
+3.
+
+![Screenshot 2024-08-16 003552](https://github.com/user-attachments/assets/095303bc-8e64-4905-a783-5c982943a639)
+
+4.
+
+![Screenshot 2024-08-16 003617](https://github.com/user-attachments/assets/09a498eb-44ef-4e77-b279-456bf46e6c61)
 
 # Conclusion
 This repository provides a practical understanding of different operators in C++. By experimenting with these examples, users can gain insight into how each operator functions in C++ programming.
