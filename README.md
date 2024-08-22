@@ -19,13 +19,12 @@ Inequality Operator (!=): Returns true if the operands are not equal, otherwise 
 ```javascript
 //Bool
 #include<iostream>
- using namespace std;
- int main()
-{
-    bool a = true;
-    bool b = true;
+using namespace std;
+int main(){
+    bool a= true;
+    bool b= true;
     cout<<boolalpha;
-    cout<<"a&&b: "<<(a&&b)<<endl;
+    cout<<"A&&B: "<<(a&&b)<<endl;
     return 0;
 }
 ```
@@ -82,7 +81,7 @@ int main(){
 # Output:
 1.![Screenshot 2024-08-16 003434](https://github.com/user-attachments/assets/d9416b23-4de2-4336-b134-9d22a4c35e7f)
 
-2.![Screenshot 2024-08-16 003506](https://github.com/user-attachments/assets/dd6ad46e-98de-41c8-a632-9288bed6a667)
+2.
 
 3.![Screenshot 2024-08-16 003552](https://github.com/user-attachments/assets/095303bc-8e64-4905-a783-5c982943a639)
 
